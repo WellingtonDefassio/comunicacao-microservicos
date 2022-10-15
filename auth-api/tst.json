@@ -1,0 +1,17 @@
+{
+  "salesId": "a54ssa78sd87e7e78w89",
+  "products": [
+    {
+      "productId": 1003,
+      "quantity": 1
+    },
+    {
+      "productId": 1001,
+      "quantity": 2
+    },
+    {
+      "productId": 1002,
+      "quantity": 3
+    }
+  ]
+}
